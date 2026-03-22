@@ -1,0 +1,4 @@
+No Python, podemos criar listas 
+podemos criar loops 
+podemos criar classes para objetos na vida real
+podemos interagir com os usuários
